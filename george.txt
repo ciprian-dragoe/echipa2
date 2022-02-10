@@ -1,1 +1,16 @@
 Salut sunt george
+
+0. creati un fisier cu numele vostru si puneti un text aleator in acesta
+1. git add .
+2. git commit -m "de ce ai modificat un fisier"
+3. git pull origin main
+3.1  identific fisierul cu conflict si aleg cine are prioritate
+3.2 git add .
+3.3 git merge --continue
+3.4 inchideti fisierul notepad
+care a aparut
+4. git push origin main
+
+
+!!! daca apare in terminal CONFLIC 
+mai avem un pas 3.1
