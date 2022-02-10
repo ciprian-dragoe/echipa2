@@ -14,3 +14,4 @@ care a aparut
 
 !!! daca apare in terminal CONFLIC 
 mai avem un pas 3.1
+git config --global core.editor notepad
